@@ -1,2 +1,2 @@
-# Calculator
-College project 
+# p-cal
+p cal
